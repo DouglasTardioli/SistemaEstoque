@@ -10,7 +10,6 @@ O projeto foi criado com o objetivo de praticar conceitos de desenvolvimento de 
 * 🎨 **JavaFX**
 * 🗄️ **SQLite**
 * 📦 **Maven**
-* 🧩 **FXML**
 
 ## ⚙️ Funcionalidades
 
