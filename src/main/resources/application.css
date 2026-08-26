@@ -1,0 +1,25 @@
+.root {
+    -fx-font-family: Arial;
+    -fx-background-color: #f5f5f5;
+}
+
+.titulo {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-cursor: hand;
+}
+
+.table-view {
+    -fx-font-size: 14px;
+}
